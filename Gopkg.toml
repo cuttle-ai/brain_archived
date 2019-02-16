@@ -1,0 +1,7 @@
+[[constraint]]
+  branch = "master"
+  name = "github.com/gonum/stat"
+
+[prune]
+  go-tests = true
+  unused-packages = true
