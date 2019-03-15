@@ -53,7 +53,7 @@ func NewDataset() Dataset {
 //of the dataset. It will return an error if the data type inferred from the
 //metric is different from the one that is actually passed to the method.
 //It will also return an error if the data type of the passed metric
-//is not supported. If the metric is added sucessfully,
+//is not supported. If the metric is added successfully,
 //the method will return nil.
 func (d *Dataset) AddMetric(m Metric, data interface{}) error {
 	/*

@@ -1,4 +1,4 @@
-//Package visualization has the utilities for creating the visualizations
+//Package visualizations has the utilities for creating the visualizations
 //for data like bar graph, scatter plot etc. This doesn't generate the images
 //of the visualizations. It will provide models and which states the parameters
 //required for creating visualization. E.g. For creating a bar graph, it does

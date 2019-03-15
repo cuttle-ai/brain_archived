@@ -1,4 +1,4 @@
-# brain
+# brain [![Go Report Card](https://goreportcard.com/badge/github.com/cuttle-ai/brain)](https://goreportcard.com/report/github.com/cuttle-ai/brain)
 
 Brain is the insight computation engine of cuttle.ai
 
